@@ -31,7 +31,7 @@
 * Balancing data using SMOTE.
 * Scaling the data.
 
-![alt text](https://github.com/fahadmehfooz/Sentiment-Analysis-Using-SVM-NB/blob/main/images/__results___20_1.png)
+![alt text](https://github.com/fahadmehfooz/Credit-Analysis-With-Knn-Dtree-Rf-Bagging/blob/main/images/__results___41_1.png)
 
 ## Model Building 
 
